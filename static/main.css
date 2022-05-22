@@ -1,0 +1,52 @@
+body>header {
+    background-color: #00ABE1;
+    display: flex;
+    padding: 10px
+}
+
+body>header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+/* body>header>nav>ul {
+    display: flex;
+    justify-content: flex-start;
+} */
+
+body {
+    margin: 0%;
+    font-family: sans-serif
+}
+
+.button {
+    background-color: #161F6D;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+body>div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body>div>form {
+    margin: 100px
+}
+
+body>main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
